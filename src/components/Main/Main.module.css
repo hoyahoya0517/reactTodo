@@ -1,0 +1,35 @@
+.main {
+  display: grid;
+  grid-template-rows: 1fr 15fr;
+}
+.top {
+  background-color: #4682b4;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.darkTop {
+  background-color: #696969;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.filter {
+  display: flex;
+  margin-right: 5px;
+}
+.darkmodeButton {
+  cursor: pointer;
+  margin-left: 5px;
+}
+.home {
+  cursor: pointer;
+}
+.check {
+  cursor: pointer;
+  margin-left: 10px;
+}
+.delButton {
+  cursor: pointer;
+  margin-left: 10px;
+}

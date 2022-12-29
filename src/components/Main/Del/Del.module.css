@@ -1,0 +1,30 @@
+.del {
+  background-color: #d8bfd8;
+}
+.darkDel {
+  background-color: #708090;
+}
+.do {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  height: 10%;
+  font-size: 1.5rem;
+}
+
+.doMenu {
+  display: flex;
+  margin-right: 5px;
+}
+.checkButton {
+  cursor: pointer;
+}
+.delButton {
+  cursor: pointer;
+  margin-left: 5px;
+}
+.checkName {
+  text-decoration: line-through;
+  text-decoration-color: #b22222;
+}
