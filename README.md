@@ -1,6 +1,7 @@
 # 💻todolist
 2022.12.30<br>
 REACT를 이용해 todolist를 코딩.<br>
+모바일 전용<br>
 # Features
 투두리스트<br>
 전체 리스트 보여주기<br>
