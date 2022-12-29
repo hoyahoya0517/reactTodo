@@ -1,5 +1,6 @@
 .home {
   background-color: #bdb76b;
+  overflow-y: scroll;
 }
 .darkHome {
   background-color: #708090;
