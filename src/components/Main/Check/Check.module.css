@@ -1,8 +1,10 @@
 .check {
   background-color: #8fbc8f;
+  overflow-y: scroll;
 }
 .darkCheck {
   background-color: #708090;
+  overflow-y: scroll;
 }
 .do {
   display: flex;

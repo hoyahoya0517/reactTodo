@@ -4,6 +4,7 @@
 }
 .darkHome {
   background-color: #708090;
+  overflow-y: scroll;
 }
 .do {
   display: flex;

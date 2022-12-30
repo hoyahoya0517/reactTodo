@@ -1,8 +1,10 @@
 .del {
   background-color: #d8bfd8;
+  overflow-y: scroll;
 }
 .darkDel {
   background-color: #708090;
+  overflow-y: scroll;
 }
 .do {
   display: flex;
