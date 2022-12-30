@@ -1,6 +1,6 @@
 .main {
   display: grid;
-  grid-template-rows: 1fr 15fr;
+  grid-template-rows: 50px auto;
 }
 .top {
   background-color: #4682b4;
