@@ -9,7 +9,7 @@
 
   position: absolute;
   display: grid;
-  grid-template-rows: auto 7vh;
+  grid-template-rows: 550px auto;
   font-size: 1.2rem;
   font-family: "Noto Sans KR", sans-serif;
 }
